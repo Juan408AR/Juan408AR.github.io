@@ -34,11 +34,11 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: Project Team and Poster
   url: /
-- title: About
+- title: Design Research
   url: /about/
-- title: Blog
+- title: Design Prototyping
   url: /blog/
 
 # Footer nav
