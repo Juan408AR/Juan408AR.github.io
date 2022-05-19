@@ -11,8 +11,8 @@
 
 ## Installations
 * Install ruby
-* Install "gem install jekyll bundler"
-* Install "bundle install"
+* Run "gem install jekyll bundler"
+* Run "bundle install"
 
 ## Running program
 * Run "bundle exec jekyll serve"
