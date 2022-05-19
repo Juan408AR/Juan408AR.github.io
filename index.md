@@ -1,8 +1,8 @@
 ---
-title: (App Name Here)
+title: "DEAP"
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Something..
+  ## DEAP: Disaster Emergency Alerts and Preparedness
 ---
   
   <p>
