@@ -9,7 +9,7 @@ feature_text: |
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="pictures/img1.jpg" alt="Brian" style="width:100%">
+      <img class="profile" src="pictures/img1.jpg" alt="Brian" style="width:100%">
       <div class="container">
         <h2>Brian Adams</h2>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
@@ -20,7 +20,7 @@ feature_text: |
 
   <div class="column">
     <div class="card">
-      <img src="pictures/img1.jpg" alt="James" style="width:100%">
+      <img class="profile" src="pictures/img1.jpg" alt="James" style="width:100%">
       <div class="container">
         <h2>James Giatpaiboon</h2>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
@@ -31,7 +31,7 @@ feature_text: |
 
   <div class="column">
     <div class="card">
-      <img src="pictures/img1.jpg" alt="Juan" style="width:100%">
+      <img class="profile" src="pictures/img1.jpg" alt="Juan" style="width:100%">
       <div class="container">
         <h2>Juan Aguirre</h2>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
@@ -42,7 +42,7 @@ feature_text: |
 
   <div class="column">
     <div class="card">
-      <img src="pictures/img1.jpg" alt="Kenneth" style="width:100%">
+      <img class="profile" src="pictures/img1.jpg" alt="Kenneth" style="width:100%">
       <div class="container">
         <h2>Kenneth Chuson</h2>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
@@ -53,7 +53,7 @@ feature_text: |
 
   <div class="column">
     <div class="card">
-      <img src="pictures/img1.jpg" alt="Nicholas" style="width:100%">
+      <img class="profile" src="pictures/nick.jpg" alt="Nicholas" style="width:100%">
       <div class="container">
         <h2>Nicholas Shaffer</h2>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
@@ -78,6 +78,12 @@ feature_text: |
       display: block;
     }
   }
+  .profile {
+    float: left;
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+  }
   .card 
   {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -95,22 +101,6 @@ feature_text: |
   .title 
   {
     color: grey;
-  }
-  .button 
-  {
-    border: none;
-    outline: 0;
-    display: inline-block;
-    padding: 8px;
-    color: white;
-    background-color: #000;
-    text-align: center;
-    cursor: pointer;
-    width: 100%;
-  }
-  .button:hover 
-  {
-    background-color: #555;
   }
 </style>
 
