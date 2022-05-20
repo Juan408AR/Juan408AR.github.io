@@ -1,5 +1,5 @@
 ---
-title: Problem and Goals
+title: Design Research
 ---
   <h3> Research </h3>
 
