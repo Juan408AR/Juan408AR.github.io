@@ -36,10 +36,14 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Project Team and Poster
   url: /
+- title: Problem and Goals
+  url: /Problem_and_Goals/
 - title: Design Research
   url: /about/
 - title: Design Prototyping
   url: /Design_Prototyping/
+- title: Future Design Potential
+  url: /Future_Design_Potential/
 
 # Footer nav
 navigation_footer:

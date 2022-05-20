@@ -1,5 +1,5 @@
 ---
-title: Project Team
+title: Design Prototyping
 ---
 <h3>First Prototype</h3>
 <div style="background-color: #A7B5C6; padding: 20px">
