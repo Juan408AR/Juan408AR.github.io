@@ -56,7 +56,7 @@ feature_text: |
       <img class="profile" src="pictures/nick.jpg" alt="Nicholas" style="width:100%">
       <div class="container">
         <h2>Nicholas Shaffer</h2>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>When i'm not busy with school, I like to play video games, exercise, and listen to podcasts.</p>
         <p>nshaffer1@mail.sfsu.edu</p>
       </div>
     </div>
