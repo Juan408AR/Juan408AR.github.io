@@ -47,8 +47,8 @@ feature_text: |
       <img class="profile" src="pictures/kenneth.jpg" alt="Kenneth" style="width:100%">
       <div class="container">
         <h2>Kenneth Chuson</h2>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p class="email">example@example.com</p>
+        <p>Hello my name is Kenneth, I am interested in full stack development and exploring different problems and learn new things in life.</p>
+        <p class="email">kchuson@mail.sfsu.edu</p>
       </div>
     </div>
     <div class="card">
