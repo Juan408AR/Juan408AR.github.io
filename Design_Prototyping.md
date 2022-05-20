@@ -9,6 +9,10 @@ title: Design Prototyping
   <img src="/Old Prototype Pictures/Resource Page Old.png" width="178.5px">
   <img src="/Old Prototype Pictures/Profile Page Old.png" width="149px">
 
+  <ul>
+    <li>Shapes were added to the map to show relevant information</li>
+    <li>The Options available in the profile were limited, based on feedback</li>
+  </ul>
 
 </div>
 
@@ -25,6 +29,11 @@ title: Design Prototyping
   <img src="/pictures/Map Page_ EMERGENCY SERVICES.png" width="148.5px">
   <img src="/pictures/Resource Page.png" width="159.5px">
   <img src="/pictures/iPhone SE - Profile.png" width="148.5px">
+
+  <ul>
+    <li>Better shapes and images were used on the map to be more informative</li>
+    <li>The buttons were given more depths to improve visibility</li>
+  </ul>
 </div>
 
 <h3>Third Prototype</h3>
