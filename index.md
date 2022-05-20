@@ -4,8 +4,6 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## DEAP: Disaster Emergency Alerts and Preparedness
 ---
-<div style="width: 1500px;
-  margin: auto; text-align: center">
 <div class="row">
   <div class="column">
     <div class="card">
@@ -62,8 +60,13 @@ feature_text: |
     </div>
   </div>
 </div>
-</div>
 <style>
+  .row
+  {
+    width: 1500px;
+    margin: auto; 
+    text-align: center"
+  }
   .column 
   {
     float: left;
