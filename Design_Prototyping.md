@@ -48,5 +48,9 @@ title: Design Prototyping
     <img src="/Updated Pictures/Map Page_ EMERGENCY SERVICES.png" width="144.5px">
     <img src="/pictures/Resource Page.png" width="159.5px">
     <img src="/pictures/iPhone SE - Profile.png" width="148.5px">
-
+ <ul>
+    <li>Better features to have more settings option and shapes</li>
+    
+   
+  </ul>
 </div>
