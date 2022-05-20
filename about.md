@@ -1,5 +1,5 @@
 ---
-title: Project Team
+title: Design Research
 ---
 
 <div style="background-color: grey; padding: 20px">
