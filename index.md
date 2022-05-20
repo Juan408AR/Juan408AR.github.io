@@ -39,8 +39,8 @@ feature_text: |
       <img class="profile" src="pictures/juan.jpg" alt="Juan" style="width:100%">
       <div class="container">
         <h2>Juan Aguirre</h2>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p class="email">example@example.com</p>
+        <p></p>
+        <p class="email">aguirre.juanmp15@gmail.com</p>
       </div>
     </div>
     <div class="card">
