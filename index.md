@@ -5,6 +5,6 @@ feature_text: |
   ## DEAP: Disaster Emergency Alerts and Preparedness
 ---
   
-  <p>
-    <img src="pictures/Landing Page (Home).png" width="150" height="150">
-  </p>
+  <div>
+      <img src="/Updated Pictures/Landing Page (Home).png" width="150px" height="150px">
+  </div>

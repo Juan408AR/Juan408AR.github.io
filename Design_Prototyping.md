@@ -29,4 +29,15 @@ title: Design Prototyping
 
 <h3>Third Prototype</h3>
 <div style="background-color: #A9A7C6; padding: 20px">
+    <img src="/Updated Pictures/Landing Page (Home).png" width="150px" height="150px">
+    <img src="/Updated Pictures/News Page.png" width="168px">
+    <img src="/Updated Pictures/More Info.png" width="168px">
+    <img src="/Updated Pictures/Update Page.png" width="170px">
+    <img src="/Updated Pictures/Map Page_ OVERVIEW.png" width="170px">
+    <img src="/Updated Pictures/Map Page_ SELECTING ADDRESS.png" width="170px">
+    <img src="/Updated Pictures/Map Page_ EVACUATION ROUTE.png" width="170px">
+    <img src="/Updated Pictures/Map Page_ EMERGENCY SERVICES.png" width="144.5px">
+    <img src="/pictures/Resource Page.png" width="159.5px">
+    <img src="/pictures/iPhone SE - Profile.png" width="148.5px">
+
 </div>
