@@ -1,8 +1,25 @@
 ---
-title: Project Team
+title: Problem and Goals
 ---
+  <h3> Research </h3>
 
-<div style="background-color: grey; padding: 20px">
-  <img src="/pictures/Landing Page (Home).png" width="150px" height="150px">
-  <img src="/pictures/Landing Page (Home)2.png" width="150px" height="150px">
-</div>
+<p>
+We are interested in natural disasters. We’ve seen that natural disasters are the most critical issue in people's lives and we are planning to develop an application to decrease the number of deaths from the natural disasters as possible.
+<br><br>
+First we brainstorm the main facts about natural disasters. The facts are advantages and disadvantages, such that if we develop an application of natural disasters, then there are some cases that are able to help people and save their lives. However, it does not help when the signals are destroyed and people who do not have technology. We researched most of the bad weather such as hurricanes, wildfire, earthquakes, and etc. We asked ourselves “When we develop this application, does it help to let people know and they are able to prepare to stay away from bad weathers?”, so this is the main question we need to focus and find a solution before we design an application. After brainstorming and researching, we reached out to users for the interview to see what they can do when a natural disaster is happening.
+<br><br>
+Users were reached out to in person and through the internet. There are two groups of
+participants, one group with first responders and another with people who are not first responders. A semi-structured interview was conducted with a total of five firefighters in the downtown area of San Jose, California, at a coffee shop. The second group, without any first responders, was a total of 8 people. There were 6 participants who were female and two who
+were male. Two of these participants were interviewed in-person at a local coffee area in South Lake Tahoe, in a semi-structured manner. Four participants were interviewed in a structured manner through forums on Reddit.com by using a chatbox system. With regard to in-person interviews, questions and notes were kept on a phone. The phone was used in a non distracting manner during the interviews by taking notes after the participants had spoken. Notes for online interviews were taken while the participant was responding through the chatbox.
+<br><br>
+Some of the information obtained from interviewees is mentioned below. Firefighters try to get as much information from the person in distress, regarding the situation that led them to call first responders. Information such as a precise location and description of the environment or event that caused the issue. First responders want to respond as fast as possible and make sure the problem is resolved. People that call first responders want a sense of protection and help that is provided by professionals such as first responders. First responders such as Firefighters go through training that prepares them to deal with various situations that are not always related to fires, such as medical needs. Unfortunately, there are situations in which they go into unknown places such as buildings, houses, or areas with low visibility due to smoke. They learn to physically navigate these places on the job, sometimes while trying to find people. People tend to learn to call first responders in elementary school, other people, from the radio, TV, or posters on the street. The tasks for first responders and the public is primarily done through the 911 number, which could be a phone call or text message. The task is done at the current location of the person calling/texting or the location in which the station for responding to calls is located. Providing firefighters with as much information about the problem is very important in helping them resolve problems. With information, they can bring the proper amount of equipment, navigate a building/house, and prepare. During times of distress, people don’t communicate as clearly and leave out important information such as precise location. They describe a situation worse than it actually is or sometimes they describe the situation as being less threatening. 
+Currently the only tool to communicate is by physically approaching first responders or through phone. People mainly communicate with each other verbally and through phone. Depending on the location the first responders are located. If in a rural area, the amount of calls is less than in a city. In a city, most of the calls are related to medical reasons such as bodily injuries or car accidents, these tasks are performed daily. In rural areas, most calls are related to fires or tree blockages and are performed during the time of the years that are windy and dry. In rural areas, it takes first responders around 40minutes to an hour to take people to a nearby hospital. In a city, first responders can take people to a hospital in around 20 minutes. First responders recommend people leave a building/house fire in 3minutes. It takes 5 minutes to a couple hours to put out a house fire, and the time for a wildfire can vary, sometimes up to days. The sooner firefighters respond can help in preventing more damage from spreading. When things go wrong for firefighters, it takes them longer to resolve a problem in terms of gathering enough resources. These resources could be water, devices that put out fire, or people that have more knowledge about certain locations.
+
+
+
+
+ 
+
+
+
+</p>
