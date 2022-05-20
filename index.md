@@ -9,7 +9,7 @@ feature_text: |
 <div class="row">
   <div class="column">
     <div class="card">
-      <img class="profile" src="pictures/img1.jpg" alt="Brian" style="width:100%">
+      <img class="profile" src="pictures/brian.jpg" alt="Brian" style="width:100%">
       <div class="container">
         <h2>Brian Adams</h2>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
@@ -20,7 +20,7 @@ feature_text: |
 
   <div class="column">
     <div class="card">
-      <img class="profile" src="pictures/img1.jpg" alt="James" style="width:100%">
+      <img class="profile" src="pictures/james.jpg" alt="James" style="width:100%">
       <div class="container">
         <h2>James Giatpaiboon</h2>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
@@ -31,7 +31,7 @@ feature_text: |
 
   <div class="column">
     <div class="card">
-      <img class="profile" src="pictures/img1.jpg" alt="Juan" style="width:100%">
+      <img class="profile" src="pictures/juan.jpg" alt="Juan" style="width:100%">
       <div class="container">
         <h2>Juan Aguirre</h2>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
@@ -42,7 +42,7 @@ feature_text: |
 
   <div class="column">
     <div class="card">
-      <img class="profile" src="pictures/img1.jpg" alt="Kenneth" style="width:100%">
+      <img class="profile" src="pictures/kenneth.jpg" alt="Kenneth" style="width:100%">
       <div class="container">
         <h2>Kenneth Chuson</h2>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
